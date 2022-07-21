@@ -1,1 +1,3 @@
-# subjective_logic
+# Subjective Logic
+
+Work in progress
